@@ -57,3 +57,6 @@ Esta entrada muestra una lista navegable con los puentes en los que encontramos 
 ![image](https://github.com/vmoscardo/vmoscardo.github.io/assets/46748823/d490691e-64dc-41e5-a414-933af5b59dc1)
 
 Esperamos que disfruten de la app, que les sirva en sus paseos por el Jardín del Turia y que les permita conocer un poco mejor nuestra ciudad y su historia, en lo relacionado con sus 19 puentes sobre el viejo cauce del río Turia a su paso por la ciudad de Valencia.
+
+[Conoce más acerca de mí](https://vmoscardo.github.io/about/)
+
