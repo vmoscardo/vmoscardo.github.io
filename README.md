@@ -54,6 +54,6 @@ Esta entrada muestra en la parte derecha de la pantalla una lista navegable con 
 Esta entrada muestra una lista navegable con los puentes en los que encontramos estatuas como elementos patrimoniales y decorativos del puente. En cada entrada vemos un breve texto explicativo y el acceso a un carrusel fotográfico en el que podemos apreciar distintas vistas de las estatuas ubicadas en el puente o en sus proximidades.
 
 # Pantallas de la app
-![image](https://github.com/vmoscardo/vmoscardo.github.io/assets/46748823/85e098ab-0d13-4b9e-884d-0019ca3a48c6)
+![image](https://github.com/vmoscardo/vmoscardo.github.io/assets/46748823/d490691e-64dc-41e5-a414-933af5b59dc1)
 
 Esperamos que disfruten de la app, que les sirva en sus paseos por el Jardín del Turia y que les permita conocer un poco mejor nuestra ciudad y su historia, en lo relacionado con sus 19 puentes.
