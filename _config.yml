@@ -1,11 +1,14 @@
 theme: jekyll-theme-modernist
 email: vicentemoscardo@gmail.com
-title: Puentes de Valencia
+title: "Puentes de Valencia"
+description: "App de los puentes sobre el viejo cauce del río Turia en la ciudad de Valencia"
+baseurl: ""
+url: "https://vmoscardo.github.io"
 nav:
-  title: Puentes de Valencia
-  url: /
-  description: App de los puentes sobre el viejo cauce del río Turia en la ciudad de Valencia
-  layout: about
-  permalink: /about
-
-
+  title: "Puentes del Turia en Valencia"
+  url: "/"
+  title: "Acerca de"
+  url: "/about"
+  
+  # layout: about
+  # permalink: /about
