@@ -37,6 +37,7 @@ La app es multiidioma en castellano e inglés, tomando el idioma del configurado
 
 # Soporte
 Para cualquier incidencia, comentario o sugerencia sobre la aplicación, contactar mediante correo electrónico con: vicentemoscardo@gmail.com 
+
 [Para obtener soporte](https://vmoscardo.github.io/soporte)
 
 # Privacidad
