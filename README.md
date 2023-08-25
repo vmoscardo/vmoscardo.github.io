@@ -35,14 +35,6 @@ La app, que se puede instalar tanto en dispositivos iPhone, como en iPad, presen
 
 La app es multiidioma en castellano e inglés, tomando el idioma del configurado en el dispositivo y está adaptada para accesibilidad para personas con discapacidad visual.
 
-# Soporte
-Para cualquier incidencia, comentario o sugerencia sobre la aplicación, contactar mediante correo electrónico con: vicentemoscardo@gmail.com 
-
-[Para obtener soporte](https://vmoscardo.github.io/soporte)
-
-# Privacidad
-La app no recoge ni guarda ningún dato del usuario de la misma ni de su dispositivo.
-
 # Mapa
 Esta entrada muestra un mapa global de la ciudad de Valencia con la ubicación de los 19 puentes sobre el viejo cauce del río Turia, desde el puente del Nueve de Octubre, el situado más al oeste y aguas arriba, hasta el puente de Astilleros, el último de los puentes, situado más al este y aguas abajo, en el barrio de Nazaret.
 
@@ -61,5 +53,9 @@ Esta entrada muestra una lista navegable con los puentes en los que encontramos 
 ![image](https://github.com/vmoscardo/vmoscardo.github.io/assets/46748823/d490691e-64dc-41e5-a414-933af5b59dc1)
 
 Esperamos que disfruten de la app, que les sirva en sus paseos por el Jardín del Turia y que les permita conocer un poco mejor nuestra ciudad y su historia, en lo relacionado con sus 19 puentes sobre el viejo cauce del río Turia a su paso por la ciudad de Valencia.
+
+[Para obtener soporte](https://vmoscardo.github.io/soporte)
+
+[Privacidad](https://vmoscardo.github.io/privacy)
 
 [Conoce más acerca de mí](https://vmoscardo.github.io/about)
