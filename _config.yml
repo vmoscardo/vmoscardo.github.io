@@ -1,4 +1,6 @@
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-modernist
+# theme: jekyll-theme-midnight
+theme: jekyll-theme-merlot
 email: vicentemoscardo@gmail.com
 title: "Puentes de Valencia"
 description: "App de los puentes sobre el viejo cauce del río Turia en la ciudad de Valencia"
