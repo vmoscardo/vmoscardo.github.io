@@ -7,10 +7,11 @@ url: https://vmoscardo.github.io
 nav:
   title: "Puentes del Turia en Valencia"
   url: /
+  layout: about
+  permalink: /about
   title: "Acerca de"
   url: /about
   title: "Soporte"
   url: /soporte
   
-  # layout: about
-  # permalink: /about
+  
