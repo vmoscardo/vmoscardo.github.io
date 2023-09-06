@@ -23,6 +23,8 @@ La app Puentes de Valencia permite conocer los 19 puentes sobre el viejo cauce d
 
 [Haz un paseo con Google Earth por los puentes del Turia](https://earth.google.com/earth/d/1tbo5ChFZnfpLoR3QMPWp4jKldIErxT93?usp=sharing)
 
+[Más información sobre los puentes del Turia](https://g7j4mrrnzw.wordpress.com)
+
 Por cada puente hay una entrada en la app que permite conocer su ubicación, la historia, los autores, la fecha de construcción y las características morfológicas y estructurales principales del puente, así como acceder a una galería fotográfica explicativa, en formato carrusel, con la que podemos observar el puente con detalle desde todas las tomas posibles, incluyendo también fotografías históricas de etapas anteriores del puente.
 
 Junto al nombre del puente, sobre el mapa que indica su ubicación, encontraremos dos botones que nos permiten acceder a una imagen cenital de satélite del puente y acceder a la app de Mapas, que nos permitirá mostrar el camino para llegar al puente desde la ubicación en que nos encontremos, si le hemos dado permiso en esta última app en nuestro dispositivo, para conocer nuestra ubicación.
