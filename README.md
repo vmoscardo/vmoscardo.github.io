@@ -27,7 +27,7 @@ La app Puentes de Valencia permite conocer los 19 puentes sobre el viejo cauce d
 
 Por cada puente hay una entrada en la app que permite conocer su ubicación, la historia, los autores, la fecha de construcción y las características morfológicas y estructurales principales del puente, así como acceder a una galería fotográfica explicativa, en formato carrusel, con la que podemos observar el puente con detalle desde todas las tomas posibles, incluyendo también fotografías históricas de etapas anteriores del puente.
 
-Junto al nombre del puente, sobre el mapa que indica su ubicación, encontraremos dos botones que nos permiten acceder a una imagen cenital de satélite del puente y acceder a la app de Mapas, que nos permitirá mostrar el camino para llegar al puente desde la ubicación en que nos encontremos, si le hemos dado permiso en esta última app en nuestro dispositivo, para conocer nuestra ubicación.
+Junto al nombre del puente, sobre el mapa que indica su ubicación, encontraremos tres botones que nos permiten acceder a la app de Mapas, que nos permitirá mostrar el camino para llegar al puente desde la ubicación en que nos encontremos, si le hemos dado permiso en esta última app en nuestro dispositivo, para conocer nuestra ubicación, a una imagen cenital de satélite del puente y acceder a una vista panorámica del puente.
 
 La app, que se puede instalar tanto en dispositivos iPhone, como en iPad, presenta un menú lateral en frame izquierdo, con las siguientes opciones:
   - Mapa
@@ -38,12 +38,16 @@ La app, que se puede instalar tanto en dispositivos iPhone, como en iPad, presen
 La app es multiidioma en castellano e inglés, tomando el idioma del configurado en el dispositivo y está adaptada para accesibilidad para personas con discapacidad visual.
 
 # Mapa
-Esta entrada muestra un mapa global de la ciudad de Valencia con la ubicación de los 19 puentes sobre el viejo cauce del río Turia, desde el puente del Nueve de Octubre, el situado más al oeste y aguas arriba, hasta el puente de Astilleros, el último de los puentes, situado más al este y aguas abajo, en el barrio de Nazaret.
+Esta entrada muestra un mapa global de la ciudad de Valencia con la ubicación de los 19 puentes sobre el viejo cauce del río Turia, desde el puente del Nueve de Octubre, el situado más al oeste y aguas arriba, hasta el puente de Astilleros, el último de los puentes, situado más al este y aguas abajo, en el barrio de Nazaret. Tocando cada pin con el nombre del puente, accederemos a la vista del mismo. En la parte superior hay tres botones que nos permiten visualizar distintas vistas del mapa: Plano o Estándar, Mixto o Satélite.
 
 # Puentes
-Esta entrada muestra, con scroll, una lista navegable con los 19 puentes sobre el viejo cauce del río Turia. Tocando en cada una de las entradas accedemos a la ficha del puente que nos muestra una imagen del puente y sobre la misma, un mapa con la ubicación. Deslizando la pantalla hacia abajo, tenemos en primer lugar un botón Ver galería fotográfica, que nos permite acceder al carrusel de fotografías del puente y bajo este botón, encontramos la explicación sobre la ubicación, historia del puente y un detalle de las principales características morfológicas y estructurales del puente.
+Esta entrada muestra, con scroll, una lista navegable con los 19 puentes sobre el viejo cauce del río Turia. Tocando en cada una de las entradas accedemos a la ficha del puente que nos muestra una imagen del puente y sobre la misma, un mapa con la ubicación y junto al nombre del puente, los tres botones comentados en los párrafos anteriores. 
+
+Junto a la fotografía del puente tenemos hasta cuatro botones Ver ficha, Ver fotografías, Ver estatuas y Ver autor, que nos permite navegar a cada una de las vistas con información de cada uno de los apartados. Deslizando la pantalla hacia abajo encontramos la explicación sobre la ubicación e historia del puente.
 
 Tocando en cualquiera de las imágenes de la galería fotográfica, podemos acceder al carrusel, que podemos ir navegando, obteniendo una vista ampliada de la fotografía, con un texto explicativo sobre la misma.
+
+En esta entrada de menú tenemos tres botones que nos permiten clasificar la lista de los puentes por distintos conceptos: aguas arriba-aguas abajo (ordenación por defecto), por fecha de construcción y por autor.
 
 # Autores
 Esta entrada muestra en la parte derecha de la pantalla una lista navegable con los principales autores de algunos de los puentes del río Turia sobre el viejo cauce en la ciudad de Valencia. En cada entrada podemos ver en primer lugar los puentes construidos por el autor y una breve reseña biográfica.
